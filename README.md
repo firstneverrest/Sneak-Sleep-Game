@@ -1,5 +1,5 @@
 # Sneak Sleep Game
-![image](https://github.com/firstneverrest/Sneak-Sleep-Game/blob/master/images/2.MainMenu.jpg)
+![image](images/02_MainMenu.jpg)
 
 My First game created with my classmates during Software Engineering Course. 
 This project take about 2 months to be complete because programmers in the team have to learn how to create game from scratch.
